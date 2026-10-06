@@ -13,3 +13,6 @@ The user should be logged in immediately.
 
 ## Actual Result
 Nothing.
+
+## Suggested Fix
+Check that clicking the login button runs the login function.
